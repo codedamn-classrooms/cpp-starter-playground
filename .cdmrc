@@ -1,0 +1,2 @@
+tabs: ['main.c']
+terminal-one: gcc main.c -o main.out && ./main.out
