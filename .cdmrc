@@ -1,2 +1,2 @@
 tabs: ['main.c']
-terminal-one: gcc main.c -o main.out && ./main.out
+run-button: gcc main.c -o main.out && ./main.out
