@@ -1,2 +1,2 @@
-tabs: ['main.c']
-run-button: gcc main.c -o main.out && ./main.out
+tabs: ["main.cpp"]
+run-button: g++ main.cpp -o main.out && ./main.out
